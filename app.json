@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "CraveBook",
+    "slug": "CraveBook",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/IconNew.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splashScreen.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/IconNew.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/recipeIcon.png"
+    }
+  }
+}
