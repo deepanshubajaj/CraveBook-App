@@ -1,6 +1,4 @@
-# CraveBook-App
-CraveBook-App
-<h1 align="center">🥪 CraveBook - Mobile App</h1>
+<h1 align="center">🍽️🥪 CraveBook - Mobile App</h1>
 
 **CraveBook** is a mobile recipe application built using React Native with Expo and JavaScript. Designed for food enthusiasts, it offers a clean and interactive way to explore and manage a growing collection of delicious recipes. The app currently features a curated set of custom dishes, with future plans to integrate live data through APIs.
 
