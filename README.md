@@ -106,8 +106,8 @@ Clone this repository to your local machine:
 </p>
 
 <p align="center">
-  <img src="ProjectOutputs/Snapshots/mainScreen19.jpg" alt="Main Screen 19" width="30%" />
   <img src="ProjectOutputs/Snapshots/mainScreen20.jpg" alt="Main Screen 20" width="30%" />
+  <img src="ProjectOutputs/Snapshots/mainScreen19.jpg" alt="Main Screen 19" width="30%" />
 </p>
 
 
