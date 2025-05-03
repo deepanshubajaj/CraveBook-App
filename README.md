@@ -26,15 +26,15 @@
 
 ## 🛠️ Installation & Running
 
-Clone this repository to your local machine:
+- Clone this repository to your local machine:
 ```bash
     git clone https://github.com/deepanshubajaj/CraveBook-App.git
 ```
-Install required Packages:
+- Install required Packages:
 ```bash
     npm install
 ```
-Run the App:
+- Run the App:
 ```bash
     npx expo start
 ```
