@@ -110,11 +110,9 @@ Clone this repository to your local machine:
 </p>
 
 <p align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="ProjectOutputs/Snapshots/mainScreen16.jpg" alt="Main Screen 16" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreen17.jpg" alt="Main Screen 17" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreen18.jpg" alt="Main Screen 18" width="30%" />
-  </div>
+    <img src="ProjectOutputs/Snapshots/mainScreen16.jpg" alt="Main Screen 16" width="35%" />
+    <img src="ProjectOutputs/Snapshots/mainScreen17.jpg" alt="Main Screen 17" width="35%" />
+    <img src="ProjectOutputs/Snapshots/mainScreen18.jpg" alt="Main Screen 18" width="35%" />
 </p>
 
 <p align="center">
