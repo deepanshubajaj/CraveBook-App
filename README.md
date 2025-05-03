@@ -70,43 +70,33 @@ Clone this repository to your local machine:
 </p>
 
 <p align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="ProjectOutputs/Snapshots/mainScreen1.jpg" alt="Main Screen 1" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen2.jpg" alt="Main Screen 2" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen3.jpg" alt="Main Screen 3" width="30%" />
-  </div>
 </p>
 
 <p align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="ProjectOutputs/Snapshots/mainScreen4.jpg" alt="Main Screen 4" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen5.jpg" alt="Main Screen 5" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen6.jpg" alt="Main Screen 6" width="30%" />
-  </div>
 </p>
 
 <p align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="ProjectOutputs/Snapshots/mainScreen7.jpg" alt="Main Screen 7" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen8.jpg" alt="Main Screen 8" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen9.jpg" alt="Main Screen 9" width="30%" />
-  </div>
 </p>
 
 <p align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="ProjectOutputs/Snapshots/mainScreen10.jpg" alt="Main Screen 10" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen11.jpg" alt="Main Screen 11" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen12.jpg" alt="Main Screen 12" width="30%" />
-  </div>
 </p>
 
 <p align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="ProjectOutputs/Snapshots/mainScreen13.jpg" alt="Main Screen 13" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen14.jpg" alt="Main Screen 14" width="30%" />
     <img src="ProjectOutputs/Snapshots/mainScreen15.jpg" alt="Main Screen 15" width="30%" />
-  </div>
 </p>
 
 <p align="center">
@@ -134,14 +124,14 @@ Clone this repository to your local machine:
 Here’s a short video showcasing the app's functionality:
 
 <p align="center">
-  <img src="ProjectOutputs/WorkingGifs/WorkingVideoCompleteApp.gif" alt="Screen1" width="30%" />
+  <img src="ProjectOutputs/WorkingVideo/workingVideo.gif" alt="Screen working" width="30%" />
 </p>
 
 <p align="center">
   *Complete App Working Video.*
 </p>
 
-[🎥 Watch Complete Working Video](ProjectOutputs/WorkingVideo/WorkingVideoCompleteApp.mov)
+[🎥 Watch Complete Working Video](ProjectOutputs/WorkingVideo/workingVideo.mov)
 
 
 ---
