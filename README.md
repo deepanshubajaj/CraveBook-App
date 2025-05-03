@@ -118,10 +118,8 @@ Clone this repository to your local machine:
 </p>
 
 <p align="center">
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="ProjectOutputs/Snapshots/mainScreen19.jpg" alt="Main Screen 19" width="40%" />
-    <img src="ProjectOutputs/Snapshots/mainScreen20.jpg" alt="Main Screen 20" width="40%" />
-  </div>
+  <img src="ProjectOutputs/Snapshots/mainScreen19.jpg" alt="Main Screen 19" width="35%" />
+  <img src="ProjectOutputs/Snapshots/mainScreen20.jpg" alt="Main Screen 20" width="35%" />
 </p>
 
 
